@@ -41,7 +41,7 @@
                     rollResult += dots * count;
                 }
             }
-            RollResultLabel.Text = "Wynik losowania: " + rollResult;
+            RollResultLabel.Text = "Wyniik losowania: " + rollResult;
 
             gameResult += rollResult;
             GameResultLabel.Text = "Wynik gry: " + gameResult;

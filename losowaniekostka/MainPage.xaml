@@ -54,7 +54,7 @@
                 Text="Wynik gry: 0"
                 HorizontalTextAlignment="Center"/>
             <Button
-                Text="RESETUJ WYNIK"
+                Text="RESETUJ WYNIIK"
                 Background="Chocolate"
                 HorizontalOptions="Center"
                 Clicked="ResetGame"/>
